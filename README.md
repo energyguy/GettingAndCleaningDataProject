@@ -46,6 +46,8 @@ Note! The Inertial subfolders contain raw signal data that will not be used in t
 
 8) To view datasets use notepad++ which can be downloaded from https://notepad-plus-plus.org/download/v7.html
 
+9) The codebook for this project is accessible her: https://github.com/energyguy/GettingAndCleaningDataProject/blob/master/codebook.md
+
 
 
 
