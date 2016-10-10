@@ -82,5 +82,9 @@ Variable Description
 
 
 ####Summary  
+![summary-tidydf](https://cloud.githubusercontent.com/assets/21977957/19243829/3c06ed88-8f11-11e6-8566-7161f4e47b19.jpg)
+
 
 ####tidyDF Dataframe structure
+
+![str-tidydf](https://cloud.githubusercontent.com/assets/21977957/19243833/42c4d086-8f11-11e6-9696-011449b32ced.JPG)
