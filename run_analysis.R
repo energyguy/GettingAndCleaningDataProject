@@ -1,3 +1,7 @@
+# run_analysis.R is a script that reads training and test datasets from the UCI machine learning repository,
+# in text file formats, processes it and outputs a tidy dataset which can be used for further analysis and/or visualisation.
+
+# Calls to libraries
 library(stringr)
 library(dplyr)
 library(reshape2)
