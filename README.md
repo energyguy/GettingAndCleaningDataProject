@@ -38,7 +38,7 @@ Note! The Inertial subfolders contain raw signal data that will not be used in t
 + dplyr_0.5.0 
 + stringr_1.1.0   
 
-5) Set the working directory by editing the setwd("workingdir") statement on line 9 with the path of the dataset folder downloaded in step 1.
+5) Set the working directory by editing the setwd("workingdir") statement on line 14 with the path of the dataset folder downloaded in step 1.
 
 6) Run script.
 
